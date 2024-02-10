@@ -1,1 +1,1 @@
-# Soliity
+# Solidity
